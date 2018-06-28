@@ -1,0 +1,6 @@
+label
+ID_Kuang_1
+X_Kuang_1
+ID_Kuang_2
+
+
